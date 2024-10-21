@@ -1,0 +1,10 @@
+{
+  "name": "daily-growth-skill",
+  "version": "1.0.0",
+  "description": "A self-improvement Alexa skill",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.17.0"
+  }
+}
